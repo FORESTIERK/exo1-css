@@ -1,0 +1,74 @@
+body{
+	color: #FFF;
+	background-color: #1a1a1a;
+	font-family: Comic Sans MS;
+}
+header{
+	color: #1a1a1a;
+	font-size: 35px;
+}
+nav{
+	background-color:  #008080;
+	overflow: hidden;
+	margin-left: -20px; 
+	width: 2330px;  
+	background-attachment: fixed;   
+ }
+ .logo{
+ 	width: 220px;
+ 	margin-top: 40px;
+ 	margin-left: 60px;
+ 	float: left;
+ 	background-attachment: fixed;
+ }
+.t1{
+	font-size: 25px;
+	text-align: right;
+	margin-right: 120px;
+	background-attachment: fixed;
+}
+.t2{
+	font-size: 55px;
+	text-align: center;
+	margin-right: 300px; 
+	background-attachment: fixed;
+}
+.t3{
+	font-size: 35px;
+	text-align: center;
+	margin-right: 300px;
+	background-attachment: fixed;
+}
+section{
+	background-color: #FFF;
+	width: 2320px;
+	margin-top: -20px;
+	margin-left: -10px;
+	background-attachment: fixed;
+	color: #000;
+}
+.img1{
+	margin-left: 555px;
+	margin-top: 50px;
+}
+.img2{
+	margin-right: 555px;
+	margin-top: -335px;
+}
+.img3{
+	margin-left: 555px;
+	margin-top: -75px;
+}
+.img4{
+	margin-right:  550px;
+	margin-top: 0px;
+}
+.barre{
+	margin-left: 550px;
+	margin-top: 50px;
+	width: 1100px;
+}
+.join{
+	font-size: 25px;
+	margin-left: 20px;
+}
